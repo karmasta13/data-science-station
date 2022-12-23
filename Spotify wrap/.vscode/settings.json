@@ -1,0 +1,24 @@
+{
+    "jupyter.kernels.filter": [
+        {
+            "path": "/opt/miniconda3/bin/python",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/Users/labbikarmacharya/Desktop/Analysis/Goodreads books/books/bin/python",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/usr/local/bin/python3",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/usr/bin/python3",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "/Users/labbikarmacharya/.local/share/virtualenvs/untitled_folder-qF1HRDU_/bin/python",
+            "type": "pythonEnvironment"
+        }
+    ]
+}
